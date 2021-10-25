@@ -1,0 +1,2 @@
+Link to Makers github for instructions:
+https://github.com/makersacademy/course/blob/main/pills/javascript%26JasminePill.md
